@@ -19,11 +19,11 @@ To run this project, you need to have Python installed along with some libraries
 
 ## Research Reference
 
-This project is related to the study titled \"A Study on Probabilistic Forecasting of Crude Oil Prices employing Optimized Deep Learning Models and LUBE method,” which is currently under review at Asia-Pacific Financial Markets, Springer, ManuscriptID: FEJM-S-24-00317.
+This project is related to the study titled \"A Study on Probabilistic Forecasting of Crude Oil Prices employing Optimized Deep Learning Models and LUBE method,” which is currently under review at Asia-Pacific Financial Markets, Springer, ManuscriptID: FEJM-S-24-00317.This research paper was written by our team.
 
 ## Supervision
 
-This project was conducted under the supervision of **Senior IEEE Professor S. Panigrahi**.
+This project was researched under the supervision of **Senior IEEE Professor S. Panigrahi Sir**.
 
 ## Contributing
 
